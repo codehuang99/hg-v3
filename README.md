@@ -18,6 +18,8 @@ import hguiv3 from "@huanghuangzuishuai/hgui-v3/packages/index";
 app.use(hguiv3);
 ```
 
+### 这是一个链接 [演示地址](http://36.111.190.68:2222/)
+
 > 组件使用（以按钮为例）
 >
 > <hg-button>按钮</hg-button>
